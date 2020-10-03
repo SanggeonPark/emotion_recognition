@@ -34,7 +34,7 @@ test_labels = np.array(train_labels)
 # get CNN model
 model = getCNNModel()
 
-# Compile the defined model.
+# Compile the model.
 model.compile(
   'adam',
   loss='categorical_crossentropy',
