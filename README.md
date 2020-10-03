@@ -14,3 +14,8 @@ Build a model with train data:
 ```bash
 $ python3 src/train.py
 ```
+
+Run test
+```bash
+$ python3 src/test.py
+```
