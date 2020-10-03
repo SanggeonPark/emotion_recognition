@@ -18,10 +18,10 @@ def train():
 
     for index in range(len(train_data_array)):
         train_images.append(train_data_array[index].data)
-        train_labels.append(train_data_array[index].label_number)
+        train_labels.append(train_data_array[index].label_index)
         if (index % 4 == 0):
             test_images.append(train_data_array[index].data)
-            test_labels.append(train_data_array[index].label_number)
+            test_labels.append(train_data_array[index].label_index)
 
 
     train_images = np.array(train_images)

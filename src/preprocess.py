@@ -4,7 +4,7 @@ import numpy as np
 import cv2
 
 from models import dictionary_from_xml_file_url, TrainData
-from defines import xml_folder, train_image_folder, input_shape_2D
+from defines import emotion_labels, xml_folder, train_image_folder, input_shape_2D
 
 def preprocess_train_data():
     train_data_array = []
@@ -25,7 +25,7 @@ def preprocess_train_data():
                 # print(str(e))
                 continue
             shaped_array = np.reshape(np.asarray(resized_img, 'float32')/255.0, input_shape_2D)
-            data = TrainData(shaped_array, object['name'])
+            data = TrainData(shaped_array, emotion_labels.index(object['name']))
             train_data_array.append(data)
     # print(train_data[0].data)
     return train_data_array

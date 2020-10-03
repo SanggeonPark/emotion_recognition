@@ -3,7 +3,6 @@ from os.path import isfile, join
 import numpy as np
 import cv2
 
-from switcher import i2l_switcher
 from models import getCNNModel
 from defines import test_image_folder, input_shape_2D, input_shape_3D, face_detection_model_path, facial_emotion_recognition_model_path
 

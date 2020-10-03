@@ -2,7 +2,6 @@
 xml_folder = 'facial_emotion_data/train/annotations'
 train_image_folder = 'facial_emotion_data/train/img'
 test_image_folder = 'facial_emotion_data/test/img'
-face_detection_model_path = 'face_detection_data/haarcascade_frontalface_default.xml'
 facial_emotion_recognition_model_path = 'facial_emotion_recognition.h5'
 
 #Emotion Labels

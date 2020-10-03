@@ -2,7 +2,6 @@ import declxml as xml
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Dense, Flatten
 
-from switcher import l2i_switcher
 from defines import num_filters, filter_size, pool_size, input_shape_3D, num_classes
 
 # Dictionary Structure
@@ -28,10 +27,9 @@ def dictionary_from_xml_file_url(xml_file_url):
     return xml.parse_from_file(xml_preprocessor, xml_file_url)
 
 class TrainData:
-    def __init__(self, data, label):
+    def __init__(self, data, label_index):
         self.data = data # reshaped numpy array
-        switcher = l2i_switcher.get(label, lambda: 'Invalid label')
-        self.label_number = switcher()
+        self.label_index = label_index
 
 def getCNNModel():
     # define model with Sequential
