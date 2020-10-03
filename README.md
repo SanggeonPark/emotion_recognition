@@ -3,6 +3,12 @@ Python project to build a face emotion recognition model
 
 ## Usage
 
+Install pip:
+
+```bash
+$ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+```
+
 Install dependencies:
 
 ```bash
