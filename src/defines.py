@@ -1,10 +1,12 @@
 # Path
-xml_folder = "facial_emotion_data/train/annotations"
-train_image_folder = "facial_emotion_data/train/img"
-test_image_folder = "facial_emotion_data/test/img"
+xml_folder = 'facial_emotion_data/train/annotations'
+train_image_folder = 'facial_emotion_data/train/img'
+test_image_folder = 'facial_emotion_data/test/img'
+face_detection_model_path = 'face_detection_data/haarcascade_frontalface_default.xml'
+emotion_recognition_model_path = 'facial_expression_recognition.h5'
 
 # Constants
-input_shape_size = 28
+input_shape_size = 36
 input_shape_2D = (input_shape_size, input_shape_size)
 input_shape_3D = (input_shape_size, input_shape_size, 1)
 

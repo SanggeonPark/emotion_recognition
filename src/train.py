@@ -4,32 +4,35 @@ from tensorflow.keras.layers import Conv2D, MaxPooling2D, Dense, Flatten
 from tensorflow.keras.utils import to_categorical
 
 from preprocess import preprocess_train_data
-from models import TrainData
+from models import TrainData, getCNNModel
 from switcher import l2i_switcher
-from defines import input_shape_2D, input_shape_3D, num_filters, filter_size, pool_size, emotion_labels
-
-
-# Map helper
-def image_from_data(obj):
-    return np.reshape(obj.data, input_shape_2D)
-
-def label_from_data(obj):
-    return int(obj.label_number)
-
+from defines import input_shape_2D, emotion_labels, emotion_recognition_model_path
 
 train_data_array = preprocess_train_data()
-train_images = np.array(map(image_from_data, train_data_array))
-train_labels = np.array(map(label_from_data, train_data_array), dtype='int')
 
+train_images = []
+train_labels = []
+test_images = []
+test_labels = []
+
+for index in range(len(train_data_array)):
+    if (index % 4 == 0):
+        test_images.append(train_data_array[index].data)
+        test_labels.append(train_data_array[index].label_number)
+    else:
+        train_images.append(train_data_array[index].data)
+        train_labels.append(train_data_array[index].label_number)
+
+
+train_images = np.array(train_images)
 train_images = np.expand_dims(train_images, axis=3)
+test_images = np.array(test_images)
+test_images = np.expand_dims(test_images, axis=3)
+train_labels = np.array(train_labels)
+test_labels = np.array(train_labels)
 
-# define model with Sequential
-model = Sequential([
-  Conv2D(num_filters, filter_size, input_shape=input_shape_3D),
-  MaxPooling2D(pool_size=pool_size),
-  Flatten(),
-  Dense(10, activation='softmax'),
-])
+# get CNN model
+model = getCNNModel()
 
 # Compile the defined model.
 model.compile(
@@ -39,11 +42,15 @@ model.compile(
 )
 
 # Train the compiled model.
-model.fit(
-  train_images,
-  to_categorical(train_labels, num_classes=len(emotion_labels)),
-  epochs=3,
-)
+try:
+    model.fit(
+      train_images,
+      to_categorical(train_labels, num_classes=len(emotion_labels)),
+      epochs=3,
+      validation_data=(test_images, to_categorical(test_labels)),
+    )
+except Exception as e:
+    print(str(e))
 
 # Save the trained model
-model.save_weights('facial_expression_recognition.h5')
+model.save_weights(emotion_recognition_model_path)
