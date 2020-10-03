@@ -5,7 +5,6 @@ from tensorflow.keras.utils import to_categorical
 
 from preprocess import preprocess_train_data
 from models import TrainData, getCNNModel
-from switcher import l2i_switcher
 from defines import input_shape_size, input_shape_2D, num_classes, facial_emotion_recognition_model_path
 
 def train():
