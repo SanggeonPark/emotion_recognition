@@ -23,7 +23,7 @@ xml_preprocessor = xml.dictionary('annotation', [
 def dictionary_from_xml_file_url(xml_file_url):
     return xml.parse_from_file(xml_preprocessor, xml_file_url)
 
-class MetaData:
+class TrainData:
     def __init__(self, data, label):
         self.data = data
         switcher = l2i_switcher.get(label, lambda: "Invalid label")

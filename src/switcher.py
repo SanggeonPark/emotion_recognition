@@ -18,7 +18,7 @@ l2i_switcher = {
     'sad': sad
 }
 
-# Switcher : from  integer to string
+# Switcher : from  integer to label string
 def zero():
     return 'neutral'
 def one():
