@@ -31,6 +31,7 @@ class TrainData:
         self.data = data # reshaped numpy array
         self.label_index = label_index
 
+# Convolutional Neural Networks Model
 def getCNNModel():
     # define model with Sequential
     return Sequential([
