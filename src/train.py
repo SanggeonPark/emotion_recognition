@@ -6,7 +6,7 @@ from tensorflow.keras.utils import to_categorical
 from preprocess import preprocess_train_data
 from models import TrainData, getCNNModel
 from switcher import l2i_switcher
-from defines import input_shape_2D, emotion_labels, emotion_recognition_model_path
+from defines import input_shape_2D, emotion_labels, facial_emotion_recognition_model_path
 
 train_data_array = preprocess_train_data()
 
@@ -53,4 +53,4 @@ except Exception as e:
     print(str(e))
 
 # Save the trained model
-model.save_weights(emotion_recognition_model_path)
+model.save_weights(facial_emotion_recognition_model_path)
