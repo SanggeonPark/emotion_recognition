@@ -21,7 +21,7 @@ train_data_array = preprocess_train_data()
 train_images = np.array(map(image_from_data, train_data_array))
 train_labels = np.array(map(label_from_data, train_data_array), dtype='int')
 
-# train_images = np.expand_dims(train_images, axis=3)
+train_images = np.expand_dims(train_images, axis=3)
 
 # define model with Sequential
 model = Sequential([
