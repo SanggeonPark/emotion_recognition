@@ -6,11 +6,11 @@ Python project to build a face emotion recognition model
 Install dependencies:
 
 ```bash
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 Build a model with train data:
 
 ```bash
-$ python src/train.py
+$ python3 src/train.py
 ```
