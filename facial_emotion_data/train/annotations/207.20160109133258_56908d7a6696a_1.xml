@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>207.20160109133258_56908d7a6696a_1.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>742</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>105</ymin>
+			<xmax>276</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

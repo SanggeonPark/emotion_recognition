@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>384.2507703164_124652e320_b.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>140</ymin>
+			<xmax>754</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

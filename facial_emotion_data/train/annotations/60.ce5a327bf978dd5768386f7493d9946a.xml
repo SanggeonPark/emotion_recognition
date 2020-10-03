@@ -1,0 +1,38 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>60.ce5a327bf978dd5768386f7493d9946a.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>63</ymin>
+			<xmax>269</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>169</ymin>
+			<xmax>578</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>218.depositphotos_199666930-stock-photo-excited-surprised-asian-chinese-woman.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>202</ymin>
+			<xmax>556</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

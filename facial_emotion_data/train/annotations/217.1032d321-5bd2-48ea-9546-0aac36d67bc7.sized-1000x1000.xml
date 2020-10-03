@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>217.1032d321-5bd2-48ea-9546-0aac36d67bc7.sized-1000x1000.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>226</ymin>
+			<xmax>535</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

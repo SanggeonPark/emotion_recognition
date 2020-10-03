@@ -1,0 +1,38 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>509.happy-young-couple-sitting-on-a-bench-outdoors-during-winter-season-asian-teenage-couple-in-warm-clothes-sitting-on-park-bench_SagRnXLNte_SB_PM.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>159</ymin>
+			<xmax>634</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>663</xmin>
+			<ymin>170</ymin>
+			<xmax>723</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

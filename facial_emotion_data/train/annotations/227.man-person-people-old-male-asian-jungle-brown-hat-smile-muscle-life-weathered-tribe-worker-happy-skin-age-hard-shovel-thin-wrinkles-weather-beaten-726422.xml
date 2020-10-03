@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>227.man-person-people-old-male-asian-jungle-brown-hat-smile-muscle-life-weathered-tribe-worker-happy-skin-age-hard-shovel-thin-wrinkles-weather-beaten-726422.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7296</width>
+		<height>4870</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2305</xmin>
+			<ymin>1530</ymin>
+			<xmax>3280</xmax>
+			<ymax>2390</ymax>
+		</bndbox>
+	</object>
+</annotation>

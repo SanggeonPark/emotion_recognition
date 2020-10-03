@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>unhappy-angry-asian-woman-talking-260nw-631799051.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>45</ymin>
+			<xmax>191</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>kindergarten-children-scolded-by-school-260nw-625085024.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>63</ymin>
+			<xmax>99</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>67</ymin>
+			<xmax>274</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

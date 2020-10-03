@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>140.%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA-2019-06-14-%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE-3.07.40.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>403</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>133</ymin>
+			<xmax>340</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

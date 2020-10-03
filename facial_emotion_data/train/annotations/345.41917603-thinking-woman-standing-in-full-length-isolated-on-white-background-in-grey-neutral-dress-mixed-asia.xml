@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>345.41917603-thinking-woman-standing-in-full-length-isolated-on-white-background-in-grey-neutral-dress-mixed-asia.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>199</ymin>
+			<xmax>461</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>fright</folder>
+	<filename>asian-woman-man-popcorn-wine-260nw-1250567431.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>24</ymin>
+			<xmax>221</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>18</ymin>
+			<xmax>270</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+</annotation>

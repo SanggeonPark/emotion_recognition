@@ -1,0 +1,26 @@
+<annotation>
+	<folder>surprise</folder>
+	<filename>surprised-female-office-worker-260nw-106968716.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>35</ymin>
+			<xmax>276</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>

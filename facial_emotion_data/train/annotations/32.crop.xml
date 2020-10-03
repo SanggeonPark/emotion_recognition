@@ -1,0 +1,38 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>32.crop.JPG</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>271</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>22</ymin>
+			<xmax>261</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>463</xmin>
+			<ymin>18</ymin>
+			<xmax>560</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

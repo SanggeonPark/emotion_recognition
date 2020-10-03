@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>angry-asian-woman-shouting-phone-260nw-245487865.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>81</ymin>
+			<xmax>262</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

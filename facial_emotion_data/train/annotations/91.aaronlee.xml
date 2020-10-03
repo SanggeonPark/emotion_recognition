@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>91.aaronlee.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>35</ymin>
+			<xmax>402</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

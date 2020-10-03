@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>asian-man-making-crazy-face-260nw-579696325.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>42</ymin>
+			<xmax>130</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>

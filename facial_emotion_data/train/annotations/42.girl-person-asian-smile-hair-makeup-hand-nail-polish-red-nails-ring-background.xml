@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>42.girl-person-asian-smile-hair-makeup-hand-nail-polish-red-nails-ring-background.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>44</ymin>
+			<xmax>394</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>90.storyblocks-happy-asian-man-using-smartphone-and-drinking-coffee-on-bed-man-lifestyle-on-weekend-concept_r5Jaaug6Q_SB_PM.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>203</ymin>
+			<xmax>529</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

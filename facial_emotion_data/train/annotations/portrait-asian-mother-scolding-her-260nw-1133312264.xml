@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>portrait-asian-mother-scolding-her-260nw-1133312264.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>34</ymin>
+			<xmax>263</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

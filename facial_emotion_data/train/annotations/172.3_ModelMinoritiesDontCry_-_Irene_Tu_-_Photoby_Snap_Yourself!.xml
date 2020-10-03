@@ -1,0 +1,38 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>172.3_ModelMinoritiesDontCry_-_Irene_Tu_-_Photoby_Snap_Yourself!.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1768</xmin>
+			<ymin>592</ymin>
+			<xmax>2282</xmax>
+			<ymax>1267</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2872</xmin>
+			<ymin>667</ymin>
+			<xmax>3472</xmax>
+			<ymax>1402</ymax>
+		</bndbox>
+	</object>
+</annotation>

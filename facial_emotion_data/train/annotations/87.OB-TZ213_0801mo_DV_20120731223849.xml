@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>87.OB-TZ213_0801mo_DV_20120731223849.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>56</ymin>
+			<xmax>198</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

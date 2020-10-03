@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>photo-collage-angry-asian-businessman-260nw-1157866624.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>325</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>56</ymin>
+			<xmax>214</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>

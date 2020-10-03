@@ -1,0 +1,38 @@
+<annotation>
+	<folder>surprise</folder>
+	<filename>shocked-surprised-face-asian-couple-260nw-1291605724.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>36</ymin>
+			<xmax>179</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>58</ymin>
+			<xmax>288</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>51.happy-asian-couple-love-embracing_34840-408.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>937</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>118</ymin>
+			<xmax>381</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>200</ymin>
+			<xmax>320</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

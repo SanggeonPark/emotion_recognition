@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>59.crop2.JPG</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>242</width>
+		<height>228</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>69</ymin>
+			<xmax>160</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

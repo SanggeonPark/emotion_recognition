@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>82.8605668_stock-photo-portrait-of-a-happy-asian-girl-holding-blank-screen-laptop.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>59</ymin>
+			<xmax>341</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

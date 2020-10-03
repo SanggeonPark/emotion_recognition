@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>173.crop3.JPG</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>374</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>94</ymin>
+			<xmax>258</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

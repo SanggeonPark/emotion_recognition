@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>139.Nude-lipstick-tricky-s-fine-line-between-neutral-dead-looking.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>682</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>200</ymin>
+			<xmax>470</xmax>
+			<ymax>721</ymax>
+		</bndbox>
+	</object>
+</annotation>

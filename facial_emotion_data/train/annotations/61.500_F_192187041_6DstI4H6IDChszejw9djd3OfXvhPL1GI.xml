@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>61.500_F_192187041_6DstI4H6IDChszejw9djd3OfXvhPL1GI.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>41</ymin>
+			<xmax>285</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

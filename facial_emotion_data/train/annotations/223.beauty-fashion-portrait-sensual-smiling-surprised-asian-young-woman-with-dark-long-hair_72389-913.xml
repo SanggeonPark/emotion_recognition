@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>223.beauty-fashion-portrait-sensual-smiling-surprised-asian-young-woman-with-dark-long-hair_72389-913.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>70</ymin>
+			<xmax>411</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

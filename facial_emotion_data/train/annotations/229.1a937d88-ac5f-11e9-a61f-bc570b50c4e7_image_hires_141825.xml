@@ -1,0 +1,38 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>229.1a937d88-ac5f-11e9-a61f-bc570b50c4e7_image_hires_141825.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>137</ymin>
+			<xmax>237</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>234</ymin>
+			<xmax>531</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>

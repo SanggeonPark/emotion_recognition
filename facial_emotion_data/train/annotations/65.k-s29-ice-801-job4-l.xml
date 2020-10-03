@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>65.k-s29-ice-801-job4-l.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>773</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>519</xmin>
+			<ymin>102</ymin>
+			<xmax>815</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>asian-chinese-man-wearing-purple-260nw-1447335320.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>47</ymin>
+			<xmax>230</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>

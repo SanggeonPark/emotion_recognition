@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>146.poster-download.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5100</width>
+		<height>3300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3707</xmin>
+			<ymin>470</ymin>
+			<xmax>3924</xmax>
+			<ymax>887</ymax>
+		</bndbox>
+	</object>
+</annotation>

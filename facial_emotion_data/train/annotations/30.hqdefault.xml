@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>30.hqdefault.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>38</ymin>
+			<xmax>283</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

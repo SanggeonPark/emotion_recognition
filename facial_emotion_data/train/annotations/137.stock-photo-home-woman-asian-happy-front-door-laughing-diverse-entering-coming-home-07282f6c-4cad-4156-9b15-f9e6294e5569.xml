@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>137.stock-photo-home-woman-asian-happy-front-door-laughing-diverse-entering-coming-home-07282f6c-4cad-4156-9b15-f9e6294e5569.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>158</ymin>
+			<xmax>409</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>29.34578303404_bc23550156_b.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>894</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>114</ymin>
+			<xmax>847</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+</annotation>

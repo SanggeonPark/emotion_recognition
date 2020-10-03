@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>161.stock-photo-asian-girl-in-casual-business-jacket-and-blue-jeans-on-neutral-background-student-with-eye-glasses-1052610197.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>46</ymin>
+			<xmax>226</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>

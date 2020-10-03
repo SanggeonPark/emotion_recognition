@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>67.surprised-asian-woman-using-smartphone-standing_107420-1091.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>939</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>127</ymin>
+			<xmax>371</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

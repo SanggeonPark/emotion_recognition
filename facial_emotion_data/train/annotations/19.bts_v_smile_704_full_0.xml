@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>19.bts_v_smile_704_full_0.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>91</ymin>
+			<xmax>443</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

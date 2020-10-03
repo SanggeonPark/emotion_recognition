@@ -1,0 +1,38 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>570.depositphotos_10761955-stock-photo-happy-asian-couple-portrait.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>682</width>
+		<height>1023</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>279</ymin>
+			<xmax>480</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>203</ymin>
+			<xmax>304</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

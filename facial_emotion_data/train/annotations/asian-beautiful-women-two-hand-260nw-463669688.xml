@@ -1,0 +1,26 @@
+<annotation>
+	<folder>surprise</folder>
+	<filename>asian-beautiful-women-two-hand-260nw-463669688.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>389</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>40</ymin>
+			<xmax>299</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

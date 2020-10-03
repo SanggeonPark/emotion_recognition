@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>86.500_F_248285273_f24tBz3P49YVaS12i85UuAzjDaklUmnz.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>13</ymin>
+			<xmax>263</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

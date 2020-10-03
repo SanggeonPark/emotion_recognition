@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>portrait-angry-pensive-mad-crazy-260nw-724275103.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>41</ymin>
+			<xmax>227</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

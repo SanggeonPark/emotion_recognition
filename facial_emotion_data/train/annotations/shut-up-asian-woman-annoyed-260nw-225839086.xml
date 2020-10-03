@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>shut-up-asian-woman-annoyed-260nw-225839086.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>89</ymin>
+			<xmax>230</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

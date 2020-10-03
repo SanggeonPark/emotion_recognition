@@ -1,0 +1,38 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>business-man-woman-shouting-each-260nw-159760700.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>45</ymin>
+			<xmax>176</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>55</ymin>
+			<xmax>90</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

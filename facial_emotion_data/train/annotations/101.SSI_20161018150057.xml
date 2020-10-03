@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>101.SSI_20161018150057.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>133</ymin>
+			<xmax>372</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

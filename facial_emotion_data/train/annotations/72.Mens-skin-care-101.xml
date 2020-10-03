@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>72.Mens-skin-care-101.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3118</xmin>
+			<ymin>681</ymin>
+			<xmax>4418</xmax>
+			<ymax>2619</ymax>
+		</bndbox>
+	</object>
+</annotation>

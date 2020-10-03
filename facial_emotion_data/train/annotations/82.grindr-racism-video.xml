@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>82.grindr-racism-video.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>790</width>
+		<height>530</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>83</ymin>
+			<xmax>462</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

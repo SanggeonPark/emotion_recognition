@@ -1,0 +1,38 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>74.https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F9%2F6%2F2%2F8%2F20988269-12-eng-GB%2FCropped-1559112491RTX6WJC0.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3500</width>
+		<height>1968</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1115</xmin>
+			<ymin>341</ymin>
+			<xmax>1660</xmax>
+			<ymax>1150</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2184</xmin>
+			<ymin>648</ymin>
+			<xmax>2777</xmax>
+			<ymax>1529</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>169.2084226876_YaGNzAn5_80f9918f722cdbd3acedab38fd9f4ea27e75d132.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>990</xmin>
+			<ymin>85</ymin>
+			<xmax>1446</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+</annotation>

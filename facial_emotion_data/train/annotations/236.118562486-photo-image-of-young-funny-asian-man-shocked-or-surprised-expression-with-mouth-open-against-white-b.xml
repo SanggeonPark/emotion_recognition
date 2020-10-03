@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>236.118562486-photo-image-of-young-funny-asian-man-shocked-or-surprised-expression-with-mouth-open-against-white-b.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>61</ymin>
+			<xmax>208</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

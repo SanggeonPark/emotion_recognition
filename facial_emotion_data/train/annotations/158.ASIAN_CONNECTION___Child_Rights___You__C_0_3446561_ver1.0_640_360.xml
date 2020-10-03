@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>158.ASIAN_CONNECTION___Child_Rights___You__C_0_3446561_ver1.0_640_360.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>57</ymin>
+			<xmax>525</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

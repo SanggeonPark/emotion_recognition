@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>63.stock-photo-portrait-cheerful-fashion-girl-smiling-asian-happy-outfit-casual-534c596a-8907-44da-8173-68858d1f2bab.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>964</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>90</ymin>
+			<xmax>387</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

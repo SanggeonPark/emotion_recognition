@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>88.https%3A%2F%2Fblogs-images.forbes.com%2Fwilliampesek%2Ffiles%2F2019%2F01%2FDonald_Trump_smirk-1-1200x800.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>97</ymin>
+			<xmax>654</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

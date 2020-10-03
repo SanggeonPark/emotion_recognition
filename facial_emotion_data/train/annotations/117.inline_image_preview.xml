@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>117.inline_image_preview.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>39</ymin>
+			<xmax>291</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

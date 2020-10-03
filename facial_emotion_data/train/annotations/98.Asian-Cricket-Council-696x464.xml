@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>98.Asian-Cricket-Council-696x464.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>696</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>111</ymin>
+			<xmax>510</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

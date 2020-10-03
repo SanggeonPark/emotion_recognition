@@ -1,0 +1,26 @@
+<annotation>
+	<folder>surprise</folder>
+	<filename>asian-man-blue-shirt-surprised-260nw-1446116195.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>536</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>41</ymin>
+			<xmax>227</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

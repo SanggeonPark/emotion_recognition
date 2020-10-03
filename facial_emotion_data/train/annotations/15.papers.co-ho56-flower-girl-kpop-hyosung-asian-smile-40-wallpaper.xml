@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>15.papers.co-ho56-flower-girl-kpop-hyosung-asian-smile-40-wallpaper.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2732</width>
+		<height>2732</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>872</xmin>
+			<ymin>480</ymin>
+			<xmax>1655</xmax>
+			<ymax>1594</ymax>
+		</bndbox>
+	</object>
+</annotation>

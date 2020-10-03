@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>578.young-asian-teenager-woman-watching-tv-home-female-feeling-happy-lying-sofa-living-room_7861-1622.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>156</ymin>
+			<xmax>455</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

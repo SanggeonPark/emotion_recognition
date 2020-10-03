@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>closeup-portrait-headshot-angry-middle-260nw-241324738.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>376</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>55</ymin>
+			<xmax>225</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

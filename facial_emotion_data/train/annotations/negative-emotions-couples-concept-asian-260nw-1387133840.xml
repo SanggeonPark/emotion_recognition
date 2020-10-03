@@ -1,0 +1,38 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>negative-emotions-couples-concept-asian-260nw-1387133840.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>462</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>56</ymin>
+			<xmax>240</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>69</ymin>
+			<xmax>334</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

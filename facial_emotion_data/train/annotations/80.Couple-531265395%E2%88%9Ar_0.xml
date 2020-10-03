@@ -1,0 +1,38 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>80.Couple-531265395%E2%88%9Ar_0.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1020</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>651</xmin>
+			<ymin>83</ymin>
+			<xmax>758</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>134</ymin>
+			<xmax>557</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

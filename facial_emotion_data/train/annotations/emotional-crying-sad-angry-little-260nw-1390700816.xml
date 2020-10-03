@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>emotional-crying-sad-angry-little-260nw-1390700816.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>367</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>80</ymin>
+			<xmax>299</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

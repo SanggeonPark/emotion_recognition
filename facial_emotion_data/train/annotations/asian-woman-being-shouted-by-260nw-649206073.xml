@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>asian-woman-being-shouted-by-260nw-649206073.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>65</ymin>
+			<xmax>257</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

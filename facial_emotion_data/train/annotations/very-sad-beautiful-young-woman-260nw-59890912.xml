@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>very-sad-beautiful-young-woman-260nw-59890912.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>47</ymin>
+			<xmax>115</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>98.focused_212707874-stock-photo-happy-asian-family-christmas-holidays.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>434</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>40</ymin>
+			<xmax>351</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>110</ymin>
+			<xmax>422</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

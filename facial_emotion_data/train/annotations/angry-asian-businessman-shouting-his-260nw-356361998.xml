@@ -1,0 +1,38 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>angry-asian-businessman-shouting-his-260nw-356361998.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>47</ymin>
+			<xmax>283</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>125</ymin>
+			<xmax>190</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

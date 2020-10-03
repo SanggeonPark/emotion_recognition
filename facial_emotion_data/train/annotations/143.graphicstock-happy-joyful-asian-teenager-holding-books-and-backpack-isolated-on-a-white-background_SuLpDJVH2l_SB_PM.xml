@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>143.graphicstock-happy-joyful-asian-teenager-holding-books-and-backpack-isolated-on-a-white-background_SuLpDJVH2l_SB_PM.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>89</ymin>
+			<xmax>566</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

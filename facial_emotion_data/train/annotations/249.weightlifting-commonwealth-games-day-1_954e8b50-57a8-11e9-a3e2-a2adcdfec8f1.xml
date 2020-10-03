@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>249.weightlifting-commonwealth-games-day-1_954e8b50-57a8-11e9-a3e2-a2adcdfec8f1.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>108</ymin>
+			<xmax>534</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

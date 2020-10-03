@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>116.graphicstock-young-surprised-asian-woman-in-glasses-and-shirt-holding-the-clock-in-hands-isolated-gray-background_HLHfx_Qd3x_SB_PM.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>61</ymin>
+			<xmax>562</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

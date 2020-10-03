@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>382.portrait-angry-young-asian-woman-disappoint-at-mobile-phone-while-standing-over-yellow-background-REXY2E.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>621</xmin>
+			<ymin>216</ymin>
+			<xmax>729</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

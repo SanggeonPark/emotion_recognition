@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>67.Asian-Child.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5100</width>
+		<height>3824</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>868</xmin>
+			<ymin>80</ymin>
+			<xmax>4536</xmax>
+			<ymax>3748</ymax>
+		</bndbox>
+	</object>
+</annotation>

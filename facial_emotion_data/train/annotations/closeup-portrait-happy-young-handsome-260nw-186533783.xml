@@ -1,0 +1,26 @@
+<annotation>
+	<folder>surprise</folder>
+	<filename>closeup-portrait-happy-young-handsome-260nw-186533783.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>371</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>36</ymin>
+			<xmax>219</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

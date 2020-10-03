@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>adult-asian-man-on-white-260nw-1327370039.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>49</ymin>
+			<xmax>245</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

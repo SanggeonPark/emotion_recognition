@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>255.121949320-portrait-of-young-funny-asian-man-gesturing-shocked-or-surprised-expression-with-mouth-open-and-poin.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>70</ymin>
+			<xmax>303</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

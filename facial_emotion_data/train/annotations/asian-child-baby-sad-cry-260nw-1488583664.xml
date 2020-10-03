@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>asian-child-baby-sad-cry-260nw-1488583664.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>452</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>71</ymin>
+			<xmax>307</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

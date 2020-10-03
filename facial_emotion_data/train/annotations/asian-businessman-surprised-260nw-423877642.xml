@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fright</folder>
+	<filename>asian-businessman-surprised-260nw-423877642.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>84</ymin>
+			<xmax>236</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

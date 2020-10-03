@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>aggressiveangry-boss-complaining-asian-business-260nw-556396201.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>79</ymin>
+			<xmax>276</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>126.masthead-f2a0eab6750845b7add0739ea27bcfd4b6c3deb854aa4c98b433464a3523b87a.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2878</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1522</xmin>
+			<ymin>272</ymin>
+			<xmax>1926</xmax>
+			<ymax>902</ymax>
+		</bndbox>
+	</object>
+</annotation>

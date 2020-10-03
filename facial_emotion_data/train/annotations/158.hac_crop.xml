@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>158.hac_crop.JPG</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>487</width>
+		<height>649</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>105</ymin>
+			<xmax>404</xmax>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+</annotation>

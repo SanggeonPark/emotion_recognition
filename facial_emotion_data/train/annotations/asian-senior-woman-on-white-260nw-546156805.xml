@@ -1,0 +1,26 @@
+<annotation>
+	<folder>surprise</folder>
+	<filename>asian-senior-woman-on-white-260nw-546156805.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>72</ymin>
+			<xmax>185</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

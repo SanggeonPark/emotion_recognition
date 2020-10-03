@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>72.NISI20151123_0006162611_web.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>743</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>109</ymin>
+			<xmax>461</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>

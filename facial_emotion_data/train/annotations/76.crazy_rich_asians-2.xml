@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>76.crazy_rich_asians-2.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>555</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>201</ymin>
+			<xmax>430</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

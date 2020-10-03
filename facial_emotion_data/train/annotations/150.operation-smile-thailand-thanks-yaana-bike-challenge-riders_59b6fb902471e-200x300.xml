@@ -1,0 +1,38 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>150.operation-smile-thailand-thanks-yaana-bike-challenge-riders_59b6fb902471e-200x300.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>93</ymin>
+			<xmax>126</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>193</ymin>
+			<xmax>119</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>225.funny-asian-man-close-up-angry-expression-funny-asian-man-looked-unhappy-angry-upset-silly-face-stock-photos_csp51865934.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>195</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>35</ymin>
+			<xmax>172</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>

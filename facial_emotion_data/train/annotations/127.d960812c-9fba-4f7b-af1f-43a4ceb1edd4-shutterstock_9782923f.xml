@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>127.d960812c-9fba-4f7b-af1f-43a4ceb1edd4-shutterstock_9782923f.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>665</xmin>
+			<ymin>110</ymin>
+			<xmax>1086</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+</annotation>

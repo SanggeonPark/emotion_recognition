@@ -1,0 +1,38 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>bad-communication-concept-two-man-260nw-1213428028.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>624</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>69</ymin>
+			<xmax>159</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>460</xmin>
+			<ymin>74</ymin>
+			<xmax>496</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

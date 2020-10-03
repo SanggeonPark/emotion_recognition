@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>108.14c565b04ad032202d9079c83ca53327.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1077</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>48</ymin>
+			<xmax>814</xmax>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+</annotation>

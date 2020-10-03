@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>124.angry-asian-man-tears-box-aggressively_39688-1319.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>101</ymin>
+			<xmax>357</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

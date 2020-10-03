@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>aggressive-angry-asian-businesswoman-portrait-260nw-1286647198.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>43</ymin>
+			<xmax>279</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>173.canva-fit-young-asian-woman-smiling-and-stretching--MACvdZVlxzI.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>105</ymin>
+			<xmax>212</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

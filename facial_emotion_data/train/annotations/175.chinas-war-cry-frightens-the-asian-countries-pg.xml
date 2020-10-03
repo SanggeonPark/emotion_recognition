@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>175.chinas-war-cry-frightens-the-asian-countries-pg.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>43</ymin>
+			<xmax>136</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

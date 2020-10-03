@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>431.flowers-children-brunette-Asian-smiling-blossom-pink-spring-bouquets-flower-plant-flora-petal-meadow-wildflower-land-plant-flowering-plant-floristry-291307.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>965</xmin>
+			<ymin>123</ymin>
+			<xmax>1174</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

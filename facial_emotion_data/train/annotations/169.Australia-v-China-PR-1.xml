@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>169.Australia-v-China-PR-1.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>72</ymin>
+			<xmax>309</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>50.tMRLtkxp_400x400.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>38</ymin>
+			<xmax>301</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

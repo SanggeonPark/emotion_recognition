@@ -1,0 +1,38 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>149.500_F_175225101_93GMIupUWBPcGXS6CW3OKNeofwCnL2WK.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>47</ymin>
+			<xmax>260</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>56</ymin>
+			<xmax>332</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

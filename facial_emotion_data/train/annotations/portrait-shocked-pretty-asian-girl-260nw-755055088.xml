@@ -1,0 +1,26 @@
+<annotation>
+	<folder>surprise</folder>
+	<filename>portrait-shocked-pretty-asian-girl-260nw-755055088.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>39</ymin>
+			<xmax>215</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

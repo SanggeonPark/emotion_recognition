@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>555.beauty-woman-asian-cute-girl-feel-happy-drinking-milk-good-health-morning-pink-background_1150-10222.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>102</ymin>
+			<xmax>443</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

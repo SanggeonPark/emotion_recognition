@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>portrait-stressed-asian-woman-headache-260nw-460964002.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>389</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>64</ymin>
+			<xmax>214</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>

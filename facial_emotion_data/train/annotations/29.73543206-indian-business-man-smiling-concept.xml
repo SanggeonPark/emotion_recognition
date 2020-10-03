@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>29.73543206-indian-business-man-smiling-concept.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>58</ymin>
+			<xmax>218</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

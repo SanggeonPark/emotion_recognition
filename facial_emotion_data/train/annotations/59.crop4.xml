@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>59.crop4.JPG</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>159</width>
+		<height>193</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>20</ymin>
+			<xmax>99</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

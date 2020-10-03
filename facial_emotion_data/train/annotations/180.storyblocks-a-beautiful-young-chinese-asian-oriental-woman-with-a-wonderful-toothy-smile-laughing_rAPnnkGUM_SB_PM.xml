@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>180.storyblocks-a-beautiful-young-chinese-asian-oriental-woman-with-a-wonderful-toothy-smile-laughing_rAPnnkGUM_SB_PM.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>667</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>73</ymin>
+			<xmax>490</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

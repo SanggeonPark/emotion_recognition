@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>young-asian-woman-drinking-coffee-260nw-1206725242.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>32</ymin>
+			<xmax>163</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>

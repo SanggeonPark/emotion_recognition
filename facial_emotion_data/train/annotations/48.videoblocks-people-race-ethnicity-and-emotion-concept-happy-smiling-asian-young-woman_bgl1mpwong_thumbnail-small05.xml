@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>48.videoblocks-people-race-ethnicity-and-emotion-concept-happy-smiling-asian-young-woman_bgl1mpwong_thumbnail-small05.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>27</ymin>
+			<xmax>203</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

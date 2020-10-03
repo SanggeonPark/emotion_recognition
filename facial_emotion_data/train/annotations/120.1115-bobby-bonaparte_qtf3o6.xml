@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>120.1115-bobby-bonaparte_qtf3o6.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1289</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>535</xmin>
+			<ymin>222</ymin>
+			<xmax>613</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>young-asian-couple-mad-each-260nw-438616585.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>76</ymin>
+			<xmax>154</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>100</ymin>
+			<xmax>286</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>28.Depositphotos_6264862_m-2015-2-300x300.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>54</ymin>
+			<xmax>201</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

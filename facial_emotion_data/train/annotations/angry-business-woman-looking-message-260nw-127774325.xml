@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>angry-business-woman-looking-message-260nw-127774325.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>51</ymin>
+			<xmax>101</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

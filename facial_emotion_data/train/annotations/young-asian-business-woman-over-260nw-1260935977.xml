@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>young-asian-business-woman-over-260nw-1260935977.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>382</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>36</ymin>
+			<xmax>141</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

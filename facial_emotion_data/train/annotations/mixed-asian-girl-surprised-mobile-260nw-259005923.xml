@@ -1,0 +1,26 @@
+<annotation>
+	<folder>surprise</folder>
+	<filename>mixed-asian-girl-surprised-mobile-260nw-259005923.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>211</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>71</ymin>
+			<xmax>139</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

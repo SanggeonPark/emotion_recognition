@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>side-portrait-shouting-man-260nw-103548161.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>439</width>
+		<height>280</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>64</ymin>
+			<xmax>313</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

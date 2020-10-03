@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img (3)</folder>
+	<filename>584.graphicstock-image-of-happy-asian-student-chatting-in-university-library-sitting-on-sofa-looking-at-phone_S_uVp2OL2l_thumb.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>45</ymin>
+			<xmax>106</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

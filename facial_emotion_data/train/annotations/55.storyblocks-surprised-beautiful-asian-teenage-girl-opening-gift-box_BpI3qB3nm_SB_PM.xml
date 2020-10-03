@@ -1,0 +1,26 @@
+<annotation>
+	<folder>re_img</folder>
+	<filename>55.storyblocks-surprised-beautiful-asian-teenage-girl-opening-gift-box_BpI3qB3nm_SB_PM.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>667</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>144</ymin>
+			<xmax>416</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>

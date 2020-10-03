@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>badtempered-asian-businessman-yelling-two-260nw-299481077.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>43</ymin>
+			<xmax>194</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>surprise</folder>
+	<filename>asian-man-feels-shock-surprise-260nw-574683880.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>37</ymin>
+			<xmax>209</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

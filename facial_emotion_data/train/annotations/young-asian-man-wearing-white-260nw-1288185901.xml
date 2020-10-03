@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anger</folder>
+	<filename>young-asian-man-wearing-white-260nw-1288185901.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>369</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>54</ymin>
+			<xmax>221</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>
