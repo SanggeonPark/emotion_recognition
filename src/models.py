@@ -3,7 +3,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Dense, Flatten
 
 from switcher import l2i_switcher
-from defines import num_filters, filter_size, pool_size, input_shape_3D
+from defines import num_filters, filter_size, pool_size, input_shape_3D, num_classes
 
 # Dictionary Structure
 xml_preprocessor = xml.dictionary('annotation', [
@@ -39,5 +39,5 @@ def getCNNModel():
       Conv2D(num_filters, filter_size, input_shape=input_shape_3D),
       MaxPooling2D(pool_size=pool_size),
       Flatten(),
-      Dense(10, activation='softmax'),
+      Dense(num_classes, activation='softmax'),
     ])
