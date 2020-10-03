@@ -17,4 +17,4 @@ num_classes = len(emotion_labels)
 
 num_filters = 8
 filter_size = 3
-pool_size = 2s
+pool_size = 2
