@@ -1,6 +1,11 @@
 # emotion_recognition
 Python project to build a face emotion recognition model
 
+## Test Results stored in the output folder:
+```bash
+ls output/
+```
+
 ## Usage
 
 Install pip:
