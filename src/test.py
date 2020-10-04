@@ -36,9 +36,9 @@ def test(target_path):
         test_image_file_path = join(test_image_folder, f)
         image = cv2.imread(test_image_file_path,cv2.IMREAD_UNCHANGED)
         gray_img = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-        faces = frontface_cascade.detectMultiScale(image, 1.1, 4)
+        faces = frontface_cascade.detectMultiScale(image, 1.1, 5)
         if (len(faces) == 0):
-            faces = profileface_cascade.detectMultiScale(image, 1.1, 4)
+            faces = profileface_cascade.detectMultiScale(image, 1.1, 5)
         if (len(faces) == 0):
             print('FAIL - No face found:', test_image_file_path)
             continue
